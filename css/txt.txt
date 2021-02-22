@@ -1,0 +1,33 @@
+WEB INTERFACE PROJECT *(MIT 2021)
+ 
+1. Create a Project Structure with the following details
+   - Project Name: Aardvark
+   - Folders: css, images, js, public 
+   - Insert the bootstrap package folder to the project
+   - Create a file index.html under the main project folder 
+   - Inside CSS, create style.css
+   - Inside js, create style.js
+   - Inside public, create about.html, error.html and uploadMovie.html
+   - Inside images, paste some movie posters (2 max)
+ 
+2. Make a responsive layout of the HTML pages using either the CSS GRID or the Bootstrap Grid or CSS/Bootstrap Flexbox
+3. all styling should be done in the external css file. 
+4. Replicate the following design using html and css/bootstrap in the index.html
+
+
+Img1
+ 
+ 
+5. The button Upload Movie when clicked should take the user to uploadMovie.html inside the public folder 
+6. In uploadMovie.html replicate the design below which is simply a form 
+
+ 
+img2
+
+
+7. The button back to homepage should take you back to index.html
+8. Once complete, in your GitHub account, create a repository called Movie Store, commit this project to the repository and share the clone link to my email account joseph.bill@emobilis.org
+
+
+Happy Coding
+

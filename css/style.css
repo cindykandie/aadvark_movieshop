@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 'Times New Roman', Times, serif;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:link {
+  color: cornsilk;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #7845a8;
+  text-decoration: none;
+}
+
+a:visited {
+  color: cornsilk;
+  text-decoration: none;
+}
+
+button {
+  border-radius: 7px;
+  outline: none;
+  border: none;
+  color: cornsilk;
+  padding: 10px;
+  margin: 10px;
+}
+
+.logo {
+  width: 70px;
+  height: 70px;
+}
+
+.offer {
+  background-color: #cef5f7;
+  padding: 10px;
+}
+
+.upload-btn {
+  background-color: #1b83fa;
+  padding: 10px;
+  margin: 10px;
+}
+
+table {
+  padding: 10px;
+  margin: 15px;
+  overflow: scroll;
+}
+
+table thead {
+  -webkit-box-shadow: 0px 1px #383737;
+          box-shadow: 0px 1px #383737;
+}
+
+table thead td {
+  font-weight: 600;
+  padding: 10px;
+  margin: 15px;
+}
+
+table tr {
+  padding: 10px;
+  margin: 35px;
+}
+
+table img {
+  width: 70px;
+}
+
+table .edit-btn {
+  background-color: #1b83fa;
+  color: cornsilk;
+}
+
+table .del-btn {
+  background-color: #fa1b1b;
+  color: cornsilk;
+}
+
+form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+form div {
+  width: 45vw;
+}
+
+form div label {
+  padding: 5px;
+  margin: 35px;
+}
+
+form div input {
+  padding: 5px;
+  margin: 35px;
+  width: 40vw;
+  border-radius: 6px;
+  outline: none;
+  border: 1px solid grey;
+}
+
+form .browse-input {
+  width: 10vw;
+  background-color: #b7c4d1;
+}
+
+form p {
+  display: inline;
+  font-size: 70%;
+}
+
+form .submit-btn {
+  background-color: #1b83fa;
+  color: cornsilk;
+  width: 40vw;
+  margin-left: 35px;
+}
+
+form .reset-btn {
+  background-color: #fa1b1b;
+  color: cornsilk;
+  width: 40vw;
+}
+/*# sourceMappingURL=style.css.map */

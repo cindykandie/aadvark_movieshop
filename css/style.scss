@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 'Times New Roman', Times, serif;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+a:link{
+    color:cornsilk;
+    text-decoration: none;
+
+}
+a:hover{
+    color:rgb(120, 69, 168);
+    text-decoration: none;
+
+}
+a:visited{
+    color:cornsilk;
+    text-decoration: none;
+
+}
+
+button{
+    border-radius: 7px;
+    outline: none;
+    border: none;
+    color: cornsilk;
+    padding: 10px;
+    margin: 10px;
+}
+body{
+
+}
+    .logo{
+        width: 70px;
+        height: 70px;
+    }
+    .offer{
+        background-color: rgb(206, 245, 247);
+        padding: 10px;
+    }
+    .upload-btn{
+        background-color: rgb(27, 131, 250);
+        padding: 10px;
+        margin: 10px;
+    }
+table{
+        padding: 10px;
+        margin: 15px;
+        overflow: scroll;
+    thead{
+        box-shadow: 0px 1px rgb(56, 55, 55);
+        td{
+            font-weight: 600;
+            padding: 10px;
+            margin: 15px;
+        }
+    }
+    tr{
+        padding: 10px;
+        margin: 35px;
+        td{
+            
+        }
+    }
+    img{
+        width: 70px;
+    }
+    .edit-btn{
+        background-color: rgb(27, 131, 250);
+        color: cornsilk;
+
+    }
+    .del-btn{
+        background-color: rgb(250, 27, 27);
+        color: cornsilk;
+
+    }
+}
+form{
+    display: flex;
+    flex-wrap: wrap;
+    div{
+        width: 45vw;
+    label{
+        padding: 5px;
+        margin: 35px;
+    }
+    input{
+        padding: 5px;
+        margin: 35px;
+        width: 40vw;
+        border-radius: 6px;
+        outline: none;
+        border: 1px solid grey;
+
+    }
+}
+.browse-input{
+    width: 10vw;
+    background-color: rgb(183, 196, 209);
+}
+p{
+    display: inline;
+    font-size: 70%;
+}
+.submit-btn{
+    background-color: rgb(27, 131, 250);
+    color: cornsilk;
+    width: 40vw;
+    margin-left: 35px;
+}
+.reset-btn{
+    background-color: rgb(250, 27, 27);
+    color: cornsilk;
+    width: 40vw;
+
+}
+}
